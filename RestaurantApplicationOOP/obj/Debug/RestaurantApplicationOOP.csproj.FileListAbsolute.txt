@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\bin\Debug\RestaurantApplicationOOP.exe.config
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\bin\Debug\RestaurantApplicationOOP.exe
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\bin\Debug\RestaurantApplicationOOP.pdb
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.Properties.Resources.resources
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.exe
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.pdb
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.Ana_Form.resources
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.SiparisForm.resources
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.YemekForm.resources
+C:\Users\yusuf\source\repos\RestaurantApplicationOOP\RestaurantApplicationOOP\obj\Debug\RestaurantApplicationOOP.DepoForm.resources

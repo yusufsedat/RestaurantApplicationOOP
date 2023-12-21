@@ -1,0 +1,25 @@
+Kola:Kola
+Fanta:Fanta
+Sprite:Sprite
+Limonata:Limonata
+Ayran:Ayran
+Şalgam:Şalgam
+Çoban Salatası:Domates,soğan,salatalık
+Tavuk Salatası:Salatalık,mısır , tavuk , marul
+Rus Salatası:Bezelye , yoğurt , mısır, mayonez , havuç
+Yaprak Sarması:Üzüm yaprağı , Bulgur , Domates
+Patlıcan Dolması:Patlıcan , Bulgur , Domates
+Biber Dolması:Biber , Bulgur , Domates
+Kabak Dolması:Kabak , Bulgur , Domates
+Adana Kebabı:Kıyma , biber
+Patates Kızartması:Patates
+Patates Püresi:Patates , tereyağı
+Kazandibi:Kahve , süt, şeker
+Halka Tatlısı:Un , süt, şeker
+Baklava:Yufka , şeker , Fıstık
+Elma:Elma
+Armut:Armut
+Portakal:Portakal
+Üzüm:Üzüm
+Ananas:Ananas
+Karpuz:Karpuz

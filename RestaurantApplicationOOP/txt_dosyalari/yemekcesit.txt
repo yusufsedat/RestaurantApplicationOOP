@@ -1,0 +1,25 @@
+Kola,İçecek,25
+Fanta,İçecek,25
+Sprite,İçecek,25
+Limonata,İçecek,35
+Ayran,İçecek,15
+Şalgam,İçecek,15
+Çoban Salatası,Salata,40
+Tavuk Salatası,Salata,70
+Rus Salatası,Salata,50
+Yaprak Sarması,Ana Yemek,150
+Patlıcan Dolması,Ana Yemek,150
+Biber Dolması,Ana Yemek,150
+Kabak Dolması,Ana Yemek,150
+Adana Kebabı,Ana Yemek,150
+Patates Kızartması,Ana Yemek,150
+Patates Püresi,Ana Yemek,150
+Kazandibi,Tatlı,100
+Halka Tatlısı,Tatlı,100
+Baklava,Tatlı,100
+Elma,Mevye,50
+Armut,Mevye,50
+Portakal,Mevye,50
+Üzüm,Mevye,50
+Ananas,Mevye,50
+Karpuz,Mevye,50
